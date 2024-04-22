@@ -8,7 +8,7 @@
 - 🤓 Back-End Developer
 - 📖 Learning Angular framework
 
-## Contact: ![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)
+## Contact: ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white) ![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)
 
 # My Skills
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaScalet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" align="left"/>
