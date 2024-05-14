@@ -16,6 +16,6 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaScalet&theme=radical&count_private=false&layout=donut&hide_title=true&" alt="GitHub Stats" align="left">
   
-  ### DevTools.................................................................... ![VSCode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
+  ### DevTools............................................. ![VSCode](https://img.shields.io/badge/vscode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-f34f29?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
