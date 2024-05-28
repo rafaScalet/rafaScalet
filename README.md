@@ -7,9 +7,9 @@
 - ⏰ I can work in the morning and at the night
 - 🤓 Back-End Dev
 - 💻 .NET Dev
-- 📖 Learning Node.js
+- 📖 Learning JavaScript
 
-## Contact: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafaelscalet2018@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scalety/) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5511971008845?text=ol%C3%A1,%20entrei%20em%20contato%20pelo%20seu%20link) [![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white)](https://www.instagram.com/sscalet_/) [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Scalety)
+## Contact: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafaelscalet2018@gmail.com) [![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:rafael.scalet@protonmail.com) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:rafaelscalet@hotmail.com) [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=25d366&logo=whatsapp&logoColor=white)](https://wa.me/5511971008845?text=ol%C3%A1,%20entrei%20em%20contato%20pelo%20seu%20link) [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=flat&logo=telegram&logoColor=white)](https://t.me/Scalety)
 
 # Languages and DevTools
 
