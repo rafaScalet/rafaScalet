@@ -6,7 +6,7 @@
 - 💼 Looking for a tech job
 - ⏰ I can work in the morning and at the night
 - 🤓 Back-End Dev
-- 💻 An enthusiast of the open source 
+- 💻 An enthusiast of open source software
 
 # Languages and DevTools
 
