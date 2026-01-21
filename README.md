@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaScalet&theme=radical&count_private=false&layout=donut&hide_title=true&" alt="GitHub Stats" align="left">
 </div>
 
-<div align="right">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -34,7 +34,7 @@
 
 ###
 
-<div align="right">
+<div align="centered">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
