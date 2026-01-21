@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaScalet&theme=radical&count_private=false&layout=donut&hide_title=true&" alt="GitHub Stats" align="left">
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
